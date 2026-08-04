@@ -53,14 +53,14 @@
   font-weight: 500;
   max-width: 635px;
   padding: 128px 0 32px 0;
-  margin-top: 0;
+  margin-top: auto;
 }
 
 .header__description {
   font-size: 20px;
   line-height: 30px;
   max-width: 515px;
-  margin-top: 0;
+  margin-top: auto;
 }
 
 .header__image {
